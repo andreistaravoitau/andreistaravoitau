@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: andrei.v.staravoitau@gmail.com
+<br>
 😄 Pronouns: he/him
