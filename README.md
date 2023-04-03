@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: andrei.v.staravoitau@gmail.com
-<br>
-🗣️ Pronouns: he/him. <br>
+
 🎓 Currently, I'm a student at Poznan University of Technology.
+<br>
+📫 How to reach me: andrei.v.staravoitau@gmail.com
