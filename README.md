@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🎓 Currently, I'm a student at Poznan University of Technology.
 <br>
 📫 How to reach me: andrei.v.staravoitau@gmail.com
+<br>
+<a href="https://www.linkedin.com/in/andrei-v-staravoitau/">LinkenIn</a>
