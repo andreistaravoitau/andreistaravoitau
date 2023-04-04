@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <style>
-  img {padding:10px}  
+  a {padding:10px}  
 </style>
   
   
