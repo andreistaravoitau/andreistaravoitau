@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <style>
-  a {padding=10px}  
+  a {margin=10px}  
 </style>
   
   
